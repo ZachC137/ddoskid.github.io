@@ -1,2 +1,0 @@
-# ddoskid.github.io
-site
