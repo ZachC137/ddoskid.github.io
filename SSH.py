@@ -9,7 +9,7 @@ import warnings
 import multiprocessing
 from multiprocessing import Value
  
-cmd="payload"
+cmd="rgf3to3yyu3rv"
  
 paramiko.util.log_to_file("/dev/null")
 warnings.simplefilter(action="ignore", category=FutureWarning)
